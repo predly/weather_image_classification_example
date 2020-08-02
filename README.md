@@ -21,7 +21,7 @@ Normal weather stations are expensive, need to be monitored regularly and can ge
 
 ### *Is it possible to source weather condition information out of already existing webcams, that are free to access?*
 
-We have a [dataset](https://data.mendeley.com/datasets/4drtyfjtfy/1#:~:text=Multi%2Dclass%20weather%20dataset(MWD,image%20using%20heterogeneous%20ensemble%20method%E2%80%9D.) with 4 different environmental conditions, that are:
+We have a [dataset](https://data.mendeley.com/datasets/4drtyfjtfy/1#:~:text=Multi%2Dclass%20weather%20dataset\(MWD,image%20using%20heterogeneous%20ensemble%20method%E2%80%9D.) with 4 different environmental conditions, that are:
 1. shine (sunshine)
 2. rain
 3. clouds
