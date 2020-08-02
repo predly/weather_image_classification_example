@@ -74,7 +74,7 @@ The whole datasets of weather images consits of **1054** single images. We will 
 For farmers the most important weather condition factors are precipitation and cloud coverage. **By using deep neural networks, we can classify those features using free-to-access webcam images.** The method we have shown can be used to validate weather factors like cloud coverage or rainfall with very high accuracy (96,44%). Common weather stations measure much more factors like temperature, rain amount, pressure etc., while webcams currently do not. That's why further research is needed. By using webcams as additional weather data sources, gaps in weather station coverage can be reduced. This can enhance numerical weather predictians especially in developing countries, what is indispensable for farmers there.
 
 
-All the code used can be accessed via this repository.
+You can access the code notebook in folder 'small' in this repository.
 
 ***MIT License***
 
