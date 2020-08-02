@@ -17,7 +17,7 @@ If you need higher temporal resolution, you need to use METAR weather observatio
 ![Image of METAR Stations](./assets/metar_2018.png)
 
 
-Normal weather stations are expensive, need to be monitored regularly and can get robbed when placed outside, so they are not really a solution for developing countries. Based on *'You have to work with what you have'* Google did not set up car counters to anticipate the current traffic situation in Google Maps, but used crowdsourced data that was already there. It just needed to be extracted. So, what is already there, is free to access and contains information about the environmental situation? **Right, webcams.**
+Normal weather stations are expensive, need to be monitored regularly and can get robbed when placed outside, so they are not really a solution for developing countries. Based on *'You have to work with what you have'* Google did not set up car counters to anticipate the current traffic situation in Google Maps, but used crowdsourced location data from cellphones, that was already there. It just needed to be extracted. So, what is already there, is free to access and contains information about the environmental situation? **Right, webcams.**
 
 ### *Is it possible to source weather condition information out of already existing webcams, that are free to access?*
 
