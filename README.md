@@ -57,7 +57,7 @@ The whole datasets of weather images consits of **1054** single images. We will 
 ![RESNET50](./assets/resnet50.png)
 
 
-### Which images were most difficult to predict?
+### Which conditions were most difficult to predict?
 
 ![matrix](./assets/resnet_conf_matrix.png)
 ![most difficult](./assets/most_difficult.png)
@@ -71,6 +71,10 @@ The whole datasets of weather images consits of **1054** single images. We will 
 
 ## The answer is: Yes, it is possible to predict weather conditions, based on webcam images
 
-For farmers the most important weather condition factors are precipitation and cloud coverage. **By using deep neural networks, we can classify those features using free-to-access webcam images.** While common weather stations measure temperature, rain amount, pressure etc., webcams do not. That's why further research is needed. The method we have shown can currently only be used to validate weather factors like cloud coverage or rainfall, but with very high accuracy (96,44%). By using webcams as additional weather data sources, gaps in weather station coverage can be reduced. This can enhance numerical weather predictians especially in developing countries, what is indispensable for farmers there.
+For farmers the most important weather condition factors are precipitation and cloud coverage. **By using deep neural networks, we can classify those features using free-to-access webcam images.** The method we have shown can be used to validate weather factors like cloud coverage or rainfall with very high accuracy (96,44%). Common weather stations measure much more factors like temperature, rain amount, pressure etc., while webcams currently do not. That's why further research is needed. By using webcams as additional weather data sources, gaps in weather station coverage can be reduced. This can enhance numerical weather predictians especially in developing countries, what is indispensable for farmers there.
+
+
+All the code used can be accessed via this repository with MIT License.
+
 
 (c) 2020 Marvin Gabler
