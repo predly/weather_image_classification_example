@@ -2,7 +2,7 @@
 
 ### Creating virtual weather stations via webcam image classification
 
-The accuracy of numerical weather prediciton models (NWP) like the GFS (Global Forecast System) or the ECMWF's (European Centre for Medium-Range Weather Forecasts) NWP are heavily dependent on input validation data. Based on the input validation data, basically a snapshot of the current athmosphere's of the earth, those weather models try to anticipate future weather conditions by applying physical calculations. While the NWP's also rely a lot on satelitte data of the different athmosphere layers, we will focus on ground observations in this paper.
+The accuracy of numerical weather prediciton models (NWP) like the GFS (Global Forecast System) or the ECMWF's (European Centre for Medium-Range Weather Forecasts) NWP are heavily dependent on input validation data. Based on the input validation data, basically a snapshot of the current athmosphere's of the earth, those weather models try to anticipate future weather conditions by applying physical calculations. While the NWP's also rely on satelitte data of the different athmosphere layers as input data, we will focus on ground observations in this paper.
 
 #### It is noticeable, that with rising accuracy and granularity of input validation data, the models output accuracy is rising too. 
 The uneven distribution of ground observations lead to the circumstance, that higher developed regions with more weatherstations have - as expected - better forecasts. In the following figure, the worldwide SYNOP (surface synoptic observations) weather station distribution is displayed. The gaps are obvious.
